@@ -1,0 +1,23 @@
+{
+  "version": "1.2.0",
+  "notes": "- Your release notes here\n- Another bullet",
+  "pub_date": "2025-02-25T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "<contents of the .nsis.zip.sig file>",
+      "url": "https://github.com/codenz92/coolchat-binaries/releases/download/v1.2.0/coolchat_1.2.0_x64-setup.nsis.zip"
+    },
+    "darwin-x86_64": {
+      "signature": "<contents of the x64.app.tar.gz.sig file>",
+      "url": "https://github.com/codenz92/coolchat-binaries/releases/download/v1.2.0/coolchat_1.2.0_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "<contents of the aarch64.app.tar.gz.sig file>",
+      "url": "https://github.com/codenz92/coolchat-binaries/releases/download/v1.2.0/coolchat_1.2.0_aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "<contents of the AppImage.tar.gz.sig file>",
+      "url": "https://github.com/codenz92/coolchat-binaries/releases/download/v1.2.0/coolchat_1.2.0_amd64.AppImage.tar.gz"
+    }
+  }
+}
