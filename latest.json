@@ -1,31 +1,31 @@
 {
-  "version": "0.2.3",
+  "version": "1.0.0",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2026-02-25T14:50:33.467Z",
+  "pub_date": "2026-02-25T19:01:43.737Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVzExV1FtMDF4RXFzQXBKOVA2MVRUVzJLazg4SFo1QlZhNFZhc242L3RUU0JiZHQ5QWtQMlhGT2pTM0V2S21JM3c2ZVIwN1lHMndBYVBKQWFtdXAvMndHWXB3WUFGVkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDMwMTU1CWZpbGU6Y29vbGNoYXQuYXBwLnRhci5nego4MmFGaml4TE16TVFtY2swczhGaWNjYkZNWjRXek9qN0R2aE5CR00rUytNZEh2NUVibXRLRTRnTndUM2NvTFVTcEVGS2tlWU9lcVJENXRjN0ZDU0REdz09Cg==",
-      "url": "https://github.com/codenz92/coolchat-2/releases/download/v0.2.3/coolchat_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSEdRdkdUSDdkVnpWUFBzckk2WWlIbFpNZmprNm9qdjJ1RWE3eHY1MkVncEY2dFhKZi9lQzlHZyt3cWlyVS9UcVVEcUF0TTVkbjdPL3g1RXNuLzdPczErKzlZdzNpSWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDQ1NjQ4CWZpbGU6Q09PTENIQVQuYXBwLnRhci5negpKME05NklPOCtzS2RUa29aQncwYWkwMjZPeTdSSFRvRHdZNzc2Y0Z2aVJlanFMdnFZQS9kRDRKcUp1ZGxxNFFTNWlJZ1FtYTRSYVZOdGdBQTdQRDJDZz09Cg==",
+      "url": "https://github.com/codenz92/coolchat-2/releases/download/v1.0.0/COOLCHAT_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVzExV1FtMDF4RXFzQXBKOVA2MVRUVzJLazg4SFo1QlZhNFZhc242L3RUU0JiZHQ5QWtQMlhGT2pTM0V2S21JM3c2ZVIwN1lHMndBYVBKQWFtdXAvMndHWXB3WUFGVkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDMwMTU1CWZpbGU6Y29vbGNoYXQuYXBwLnRhci5nego4MmFGaml4TE16TVFtY2swczhGaWNjYkZNWjRXek9qN0R2aE5CR00rUytNZEh2NUVibXRLRTRnTndUM2NvTFVTcEVGS2tlWU9lcVJENXRjN0ZDU0REdz09Cg==",
-      "url": "https://github.com/codenz92/coolchat-2/releases/download/v0.2.3/coolchat_aarch64.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVzExV1FtMDF4RXZRSWNnbkNQd0laMUJNazkrTzhUenZvSS9DTzg0V0JWYUV5a3hETUNWdnZNUDU1YS8wMzMxalJzRUZOSG1MOGxpbmsxL2VNVkRJM1h1Y0xqQ3VXeXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDMwNjM1CWZpbGU6Y29vbGNoYXRfMC4yLjNfeDY0X2VuLVVTLm1zaQp1cTJtNjB6Zjc5dElRZmhOUTNrOTRYWmgvckhQaWM5RnBVenN3bGdlMXBlZVpUN1VqV1EvNzJJWUsycmV3dmNvWGZKUWhxTUtxb1JMZ3ByNnQ3dGpCUT09Cg==",
-      "url": "https://github.com/codenz92/coolchat-2/releases/download/v0.2.3/coolchat_0.2.3_x64_en-US.msi"
-    },
-    "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVzExV1FtMDF4RXZRSWNnbkNQd0laMUJNazkrTzhUenZvSS9DTzg0V0JWYUV5a3hETUNWdnZNUDU1YS8wMzMxalJzRUZOSG1MOGxpbmsxL2VNVkRJM1h1Y0xqQ3VXeXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDMwNjM1CWZpbGU6Y29vbGNoYXRfMC4yLjNfeDY0X2VuLVVTLm1zaQp1cTJtNjB6Zjc5dElRZmhOUTNrOTRYWmgvckhQaWM5RnBVenN3bGdlMXBlZVpUN1VqV1EvNzJJWUsycmV3dmNvWGZKUWhxTUtxb1JMZ3ByNnQ3dGpCUT09Cg==",
-      "url": "https://github.com/codenz92/coolchat-2/releases/download/v0.2.3/coolchat_0.2.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSEdRdkdUSDdkVnpWUFBzckk2WWlIbFpNZmprNm9qdjJ1RWE3eHY1MkVncEY2dFhKZi9lQzlHZyt3cWlyVS9UcVVEcUF0TTVkbjdPL3g1RXNuLzdPczErKzlZdzNpSWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDQ1NjQ4CWZpbGU6Q09PTENIQVQuYXBwLnRhci5negpKME05NklPOCtzS2RUa29aQncwYWkwMjZPeTdSSFRvRHdZNzc2Y0Z2aVJlanFMdnFZQS9kRDRKcUp1ZGxxNFFTNWlJZ1FtYTRSYVZOdGdBQTdQRDJDZz09Cg==",
+      "url": "https://github.com/codenz92/coolchat-2/releases/download/v1.0.0/COOLCHAT_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVzExV1FtMDF4RW84MVF0dC9ZRXRhZFpCNjNxYUNQUzBYWXB1dCsrOHZnRm1ZRHVRaXpqODJYaWZmLzVuajFqdEdmZEh6SlJ1THFVbmFFQ2JTSHdPa3BMNHRDUW8zaWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDMxMDMwCWZpbGU6Y29vbGNoYXRfMC4yLjNfYW1kNjQuZGViCnEzbGVkMi93VEFjbzZ1Z1JmRk9VSEttZjdPYkg4R2EwR2FkdTkrMDJPNGJMRm5qZUd1eXJudTJRR051bGFtbjFqaXhwd2IvUjE3NGltcmZpTUNaMkNnPT0K",
-      "url": "https://github.com/codenz92/coolchat-2/releases/download/v0.2.3/coolchat_0.2.3_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSEdRdkdUSDdkVjBNcTJlaFl4K013WXJQTWJabEZHZFNVa3J2SGlSVUlZZGJrcGpPejlyaUV1WlNmekNxQUxKZm5qU2pLZE5nazFJdXlHN1NmaDN4OHo3Qmx0Zk1OWlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDQ1ODc3CWZpbGU6Q09PTENIQVRfMS4wLjBfYW1kNjQuZGViCnZuRFlGSTNqL0w0WTgrL2hnSzFRL0p4MWlqMXlDTlVPd2wzTU5RNlZDenRLV0VCenlCYzJCajVsUlVuT2x6ck0rQ1hSbDFja3FVaWxJUWNzUUZtTkNnPT0K",
+      "url": "https://github.com/codenz92/coolchat-2/releases/download/v1.0.0/COOLCHAT_1.0.0_amd64.deb"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVzExV1FtMDF4RW84MVF0dC9ZRXRhZFpCNjNxYUNQUzBYWXB1dCsrOHZnRm1ZRHVRaXpqODJYaWZmLzVuajFqdEdmZEh6SlJ1THFVbmFFQ2JTSHdPa3BMNHRDUW8zaWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDMxMDMwCWZpbGU6Y29vbGNoYXRfMC4yLjNfYW1kNjQuZGViCnEzbGVkMi93VEFjbzZ1Z1JmRk9VSEttZjdPYkg4R2EwR2FkdTkrMDJPNGJMRm5qZUd1eXJudTJRR051bGFtbjFqaXhwd2IvUjE3NGltcmZpTUNaMkNnPT0K",
-      "url": "https://github.com/codenz92/coolchat-2/releases/download/v0.2.3/coolchat_0.2.3_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSEdRdkdUSDdkVjBNcTJlaFl4K013WXJQTWJabEZHZFNVa3J2SGlSVUlZZGJrcGpPejlyaUV1WlNmekNxQUxKZm5qU2pLZE5nazFJdXlHN1NmaDN4OHo3Qmx0Zk1OWlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDQ1ODc3CWZpbGU6Q09PTENIQVRfMS4wLjBfYW1kNjQuZGViCnZuRFlGSTNqL0w0WTgrL2hnSzFRL0p4MWlqMXlDTlVPd2wzTU5RNlZDenRLV0VCenlCYzJCajVsUlVuT2x6ck0rQ1hSbDFja3FVaWxJUWNzUUZtTkNnPT0K",
+      "url": "https://github.com/codenz92/coolchat-2/releases/download/v1.0.0/COOLCHAT_1.0.0_amd64.deb"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSEdRdkdUSDdkVjU2Y3BCd24vNUZydDROdWRMMmxWUzEyYStXMXBkN1ZHcmluU0tHZWxsVHM1TkFidHovRXNKUXkwcllhRFkyN3I2cWRBS1hiWG4ySXpveHdZOEZLQ3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDQ2MTAwCWZpbGU6Q09PTENIQVRfMS4wLjBfeDY0X2VuLVVTLm1zaQpEK2dBMGw4ZXVYWWN0QnhYa0ordytkcEVYYUNpSkZ2RWJrdVVNZW9wRDRzSWcyR3NQREk4NGxBUlNIL0dRSnN5N1dIbzNBT1VETW1TK0kxVVdtVlVCQT09Cg==",
+      "url": "https://github.com/codenz92/coolchat-2/releases/download/v1.0.0/COOLCHAT_1.0.0_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSEdRdkdUSDdkVjU2Y3BCd24vNUZydDROdWRMMmxWUzEyYStXMXBkN1ZHcmluU0tHZWxsVHM1TkFidHovRXNKUXkwcllhRFkyN3I2cWRBS1hiWG4ySXpveHdZOEZLQ3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDQ2MTAwCWZpbGU6Q09PTENIQVRfMS4wLjBfeDY0X2VuLVVTLm1zaQpEK2dBMGw4ZXVYWWN0QnhYa0ordytkcEVYYUNpSkZ2RWJrdVVNZW9wRDRzSWcyR3NQREk4NGxBUlNIL0dRSnN5N1dIbzNBT1VETW1TK0kxVVdtVlVCQT09Cg==",
+      "url": "https://github.com/codenz92/coolchat-2/releases/download/v1.0.0/COOLCHAT_1.0.0_x64_en-US.msi"
     }
   }
 }
